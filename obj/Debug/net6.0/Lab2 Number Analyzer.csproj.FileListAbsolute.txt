@@ -1,0 +1,15 @@
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\Lab2 Number Analyzer\obj\Debug\net6.0\Lab2 Number Analyzer.csproj.AssemblyReference.cache
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\Lab2 Number Analyzer\obj\Debug\net6.0\Lab2 Number Analyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\Lab2 Number Analyzer\obj\Debug\net6.0\Lab2 Number Analyzer.AssemblyInfoInputs.cache
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\Lab2 Number Analyzer\obj\Debug\net6.0\Lab2 Number Analyzer.AssemblyInfo.cs
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\Lab2 Number Analyzer\obj\Debug\net6.0\Lab2 Number Analyzer.csproj.CoreCompileInputs.cache
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\Lab2 Number Analyzer\bin\Debug\net6.0\Lab2 Number Analyzer.exe
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\Lab2 Number Analyzer\bin\Debug\net6.0\Lab2 Number Analyzer.deps.json
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\Lab2 Number Analyzer\bin\Debug\net6.0\Lab2 Number Analyzer.runtimeconfig.json
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\Lab2 Number Analyzer\bin\Debug\net6.0\Lab2 Number Analyzer.dll
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\Lab2 Number Analyzer\bin\Debug\net6.0\Lab2 Number Analyzer.pdb
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\Lab2 Number Analyzer\obj\Debug\net6.0\Lab2 Number Analyzer.dll
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\Lab2 Number Analyzer\obj\Debug\net6.0\refint\Lab2 Number Analyzer.dll
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\Lab2 Number Analyzer\obj\Debug\net6.0\Lab2 Number Analyzer.pdb
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\Lab2 Number Analyzer\obj\Debug\net6.0\Lab2 Number Analyzer.genruntimeconfig.cache
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\Lab2 Number Analyzer\obj\Debug\net6.0\ref\Lab2 Number Analyzer.dll
